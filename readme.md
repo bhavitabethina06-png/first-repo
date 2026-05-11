@@ -1,1 +1,1 @@
-This is my first ML project on which I worked.
+This is my first ML project on which I worked on.
